@@ -1,0 +1,15 @@
+D:\StudyInFPolyTechnic\Xuong Thuc Hanh\DUANSP\Bai_4\bin\Debug\net6.0\Bai_4.exe
+D:\StudyInFPolyTechnic\Xuong Thuc Hanh\DUANSP\Bai_4\bin\Debug\net6.0\Bai_4.deps.json
+D:\StudyInFPolyTechnic\Xuong Thuc Hanh\DUANSP\Bai_4\bin\Debug\net6.0\Bai_4.runtimeconfig.json
+D:\StudyInFPolyTechnic\Xuong Thuc Hanh\DUANSP\Bai_4\bin\Debug\net6.0\Bai_4.dll
+D:\StudyInFPolyTechnic\Xuong Thuc Hanh\DUANSP\Bai_4\bin\Debug\net6.0\Bai_4.pdb
+D:\StudyInFPolyTechnic\Xuong Thuc Hanh\DUANSP\Bai_4\obj\Debug\net6.0\Bai_4.csproj.AssemblyReference.cache
+D:\StudyInFPolyTechnic\Xuong Thuc Hanh\DUANSP\Bai_4\obj\Debug\net6.0\Bai_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\StudyInFPolyTechnic\Xuong Thuc Hanh\DUANSP\Bai_4\obj\Debug\net6.0\Bai_4.AssemblyInfoInputs.cache
+D:\StudyInFPolyTechnic\Xuong Thuc Hanh\DUANSP\Bai_4\obj\Debug\net6.0\Bai_4.AssemblyInfo.cs
+D:\StudyInFPolyTechnic\Xuong Thuc Hanh\DUANSP\Bai_4\obj\Debug\net6.0\Bai_4.csproj.CoreCompileInputs.cache
+D:\StudyInFPolyTechnic\Xuong Thuc Hanh\DUANSP\Bai_4\obj\Debug\net6.0\Bai_4.dll
+D:\StudyInFPolyTechnic\Xuong Thuc Hanh\DUANSP\Bai_4\obj\Debug\net6.0\refint\Bai_4.dll
+D:\StudyInFPolyTechnic\Xuong Thuc Hanh\DUANSP\Bai_4\obj\Debug\net6.0\Bai_4.pdb
+D:\StudyInFPolyTechnic\Xuong Thuc Hanh\DUANSP\Bai_4\obj\Debug\net6.0\Bai_4.genruntimeconfig.cache
+D:\StudyInFPolyTechnic\Xuong Thuc Hanh\DUANSP\Bai_4\obj\Debug\net6.0\ref\Bai_4.dll
